@@ -1,0 +1,10 @@
+*.o
+*.mod
+*.exe
+*.dll
+
+img/*
+!.gitkeep
+
+Makefile
+backup
